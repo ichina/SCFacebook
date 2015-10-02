@@ -23,10 +23,10 @@
 //  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 //  THE SOFTWARE.
 
-#import <Foundation/Foundation.h>
-#import <FBSDKCoreKit/FBSDKCoreKit.h>
-#import <FBSDKLoginKit/FBSDKLoginKit.h>
-#import <FBSDKShareKit/FBSDKShareKit.h>
+#import "Foundation.h"
+#import "FBSDKCoreKit.h"
+#import "FBSDKLoginKit.h"
+#import "FBSDKShareKit.h"
 
 typedef void(^SCFacebookCallback)(BOOL success, id result);
 
